@@ -50,9 +50,14 @@ Each of the 7356 RAVDESS files has a unique filename. The filename consists of a
 
 ## 4. Reference
 [1] [Emotion-Recognition/Emotion Recognition from Speech- Project Report.pdf at master · rajamohanharesh/Emotion-Recognition · GitHub](https://github.com/rajamohanharesh/Emotion-Recognition/blob/master/Emotion%20Recognition%20from%20Speech-%20Project%20Report.pdf)
+
 [2] [The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) | Zenodo](https://zenodo.org/record/1188976#.XlWESZNKiCO)
+
 [3] https://www.ijrte.org/wp-content/uploads/papers/v7i4s/E1917017519.pdf
+
 [4] https://arxiv.org/pdf/1906.05681.pdf
+
 [5]https://arxiv.org/pdf/1904.06022v1.pdf
+
 [6]https://arxiv.org/pdf/1810.04635v1.pdf
 
